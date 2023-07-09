@@ -1,0 +1,77 @@
+.maincontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    height: 100vh;
+}
+.formcontainer{
+    background-color: #282a36;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    margin: 0 15px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+}
+footer a{
+    color:#4aee88;
+}
+.inputGroup{
+    display: flex;
+    flex-direction: column;
+}
+.mainLabel{
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+.logo{
+    height: 80px;
+    margin-bottom: 30px;
+}
+.inputBox{
+    padding: 10px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    margin-bottom: 14px;
+    background:#eee ;
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn{
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+}
+.joinBtn{
+    background: #4aed88;
+    width: 100px;
+    margin-left: auto;
+}
+.joinBtn:hover{
+    background: #2b824c;
+}
+.createInfo{
+    margin:0 auto ;
+    margin-top: 20px;
+}
+.createNewBtn{
+    color:#4aed88;
+    text-decoration: none;
+    border-bottom: 1px solid #4aed88;
+    transition: all 0.3s ease-in-out;
+}
+.createNewBtn:hover{
+    color:#2b824c;
+    border-bottom: 1px solid #2b824c;
+}
+footer a:hover{
+    color:#2b824c;
+    transition: all 0.3s ease-in-out;
+}
