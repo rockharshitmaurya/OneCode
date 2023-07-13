@@ -4,12 +4,12 @@ CodeOne is a real-time collaboration app that allows multiple users to code toge
 
 ## Table of Contents
 
-- [Installation](#Installation) ⚙️
-- [Usage](#usage) 📝
-- [Dependencies](#dependencies) 📦
-- [Contributing](#contributing) 🤝
-- [Authors](#authors) ✍️
-- [License](#license) 📄
+- [Installation](#installation-) ⚙️
+- [Usage](#usage-) 📝
+- [Dependencies](#dependencies-) 📦
+- [Contributing](#contributing-) 🤝
+- [Authors](#authors-) ✍️
+- [License](#license-) 📄
 
 ## Installation ⚙️
 
