@@ -1,17 +1,17 @@
-# CodeOne
+# CodeOne 💻👥🚀
 
 CodeOne is a real-time collaboration app that allows multiple users to code together in a live environment. It is built using the MERN (MongoDB, Express.js, React, Node.js) stack.
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [Authors](#authors)
-- [License](#license)
+- [Installation](#installation) ⚙️
+- [Usage](#usage) 📝
+- [Dependencies](#dependencies) 📦
+- [Contributing](#contributing) 🤝
+- [Authors](#authors) ✍️
+- [License](#license) 📄
 
-## Installation
+## Installation ⚙️
 
 To install and run CodeOne locally, please follow these steps:
 
@@ -21,17 +21,16 @@ To install and run CodeOne locally, please follow these steps:
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
 
-Note: Make sure you have MongoDB installed and running locally or update the connection details in the server configuration.
 
-## Usage
+## Usage 📝
 
 1. Visit the CodeOne application in your browser.
 2. Sign up or log in to your account.
 3. Create a new collaborative coding session or join an existing session.
 4. Share the session link with other participants.
-5. Start coding together in real-time! Changes made by any participant will be instantly reflected for others.
+5. Start coding together in real-time! Changes made by any participant will be instantly reflected for others. 💻🔗🔄
 
-## Dependencies
+## Dependencies 📦
 
 CodeOne relies on the following dependencies:
 
@@ -41,21 +40,19 @@ CodeOne relies on the following dependencies:
 - `react-dom`: Version 18.2.0
 - `react-hot-toast`: Version 2.4.1
 
+Note: Make sure to run `npm install` to install all the required dependencies. 📦⚙️
 
-Note: Make sure to run `npm install` to install all the required dependencies.
+## Contributing 🤝
 
-## Contributing
+Contributions to CodeOne are welcome! If you find any issues or have suggestions for improvements, please open an issue on the GitHub repository. Feel free to submit pull requests with proposed changes as well. 🙌🔧
 
-Contributions to CodeOne are welcome! If you find any issues or have suggestions for improvements, please open an issue on the GitHub repository. Feel free to submit pull requests with proposed changes as well.
-
-## Authors
+## Authors ✍️
 
 The following individuals have contributed to the development of CodeOne:
 
 - Vedant Sharma ([GitHub Profile](https://github.com/VedantSharma11))
-- Harshit Maurya ([GitHub Profile](https://github.com/rockharshitmaurya))
+- Harshit Maurya ([GitHub Profile](https://github.com/rockharshitmaurya)) ✍️👥
 
-## License
+## License 📄
 
-This project is licensed under the [MIT License](LICENSE).
-
+This project is licensed under the [MIT License](LICENSE). ⚖️📄
