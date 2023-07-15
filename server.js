@@ -7,6 +7,8 @@ const ACTIONS = require("./src/Actions");
 const server = http.createServer(app);
 const io = new Server(server);
 
+app.use(express.static("build"));
+
 const userSocketMap = {};
 function getAllConnectedClients(roomId) {
   // this 'io.sockets.adapter.rooms.get(roomId)' returns a map and we convert it to array
